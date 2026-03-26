@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Hamza Idrees                                                                                                                                                                    
+                                                                                                                                                                                              
+  Backend Developer building production SaaS APIs. Focused on writing performant, well-tested, and secure backend code.
+                                                                                                                                                                                              
+  **What I work with:**
 
-<!--
-**Hamza-Idrees/Hamza-Idrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Backend: JavaScript, Node.js, Express.js, BullMQ, node-cron
+  - Databases: PostgreSQL, MongoDB, Redis
+  - Cloud: AWS Lambda, S3, SQS, SES                                                                                                                                                           
+  - Integrations: OpenAI, Anthropic Claude, DeepL, SendGrid, Google APIs
+  - Testing: Jest, Mocha, Supertest                                                                                                                                                           
+  - Frontend: React, TypeScript, Tailwind CSS
+                                                                                                                                                                                              
+  **Currently:**
+  - Backend Developer at Obenan — SaaS platform for business location management                                                                                                              
+  - Building AI-powered pipelines, background job systems, and multi-tenant APIs
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Links:**
+  - [Portfolio](https://hamza-idrees.netlify.app)
+  - [LinkedIn](https://www.linkedin.com/in/hamzaidrees2002)     
