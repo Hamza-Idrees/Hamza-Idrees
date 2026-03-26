@@ -90,7 +90,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Idrees&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"           
   width="48%" />                                                                                                                                                                              
    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Idrees&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Idrees&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&cache_seconds=1800&v=2"
    width="40%" /> 
                                                                                                                                                                                               
   </div>          
